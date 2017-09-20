@@ -9,5 +9,6 @@ printf("Enter value2:");
 scanf("%s", str2);
 
 printf("Entered value1=%s value2=%s\n", str1, str2);
+system("PAUSE");
 return 0;
 }
